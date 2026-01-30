@@ -1,1 +1,1 @@
-# devsecops-training
+# DevSecOps Training
